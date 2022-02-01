@@ -1,1 +1,1 @@
-# Small JavaScript games
+# Small JavaScript Applications
